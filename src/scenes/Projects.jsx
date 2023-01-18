@@ -105,7 +105,11 @@ const Projects = () => {
           />
 
           {/* ROW 3 */}
-          <Project title="Project 6" />
+          <Project
+            title="uTube clone"
+            description="uTube Clone fetching data from API Youtube v3 (React, Material UI, ReactPlayer)"
+            url="https://utubeclone-gf.netlify.app/"
+          />
           <Project title="Project 7" />
           <div
             className="flex justify-center text-center items-center p-10 bg-blue
