@@ -91,7 +91,7 @@ const Projects = () => {
           <Project
             title="Mascotapp"
             description="Find a lost pet, put it up for adoption or adopt it through user posts and interactions. (React, redux, typescript, chatbot, localstorage, auth0, stripe, nodeJS, express, postgresSQL, leaflet, mercadopago, emailsender, web push, material UI, tailwind)"
-            url="https://mascotapps.vercel.app/"
+            url="https://mascotapp.vercel.app/"
           />
           <Project
             title="Pokedex"
